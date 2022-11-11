@@ -135,4 +135,45 @@ body {
     }
 }
 
+@media (min-width: 320px) and (max-width: 418px) {
+    .calculator{
+        flex: 0 0 95%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 418px) {
+    .screen{
+        font-size: 3rem;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 418px) {
+    .btn-orange{
+        flex: 0 0 31%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 418px) {
+    .btn-gray{
+        flex: 0 0 31%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 418px) {
+    .btn-grays{
+        flex: 0 0 31%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 418px) {
+    .btn-equal{
+        flex: 0 0 49%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 418px) {
+    .btn-clear{
+        flex: 0 0 48%;
+    }
+}
 
